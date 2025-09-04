@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+BookBot takes text and returns a report with a word count and character count(exluding symbols)!
